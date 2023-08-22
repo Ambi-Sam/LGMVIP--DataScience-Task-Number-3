@@ -1,4 +1,4 @@
-# LGMVIP--DataScience-Task-Number-3
+
 # Prediction using Decision Tree Algorithm
 
 This project focuses on predicting and classifying data using the Decision Tree algorithm. It demonstrates how to create a Decision Tree classifier and visualize it graphically. The purpose is to create a classifier that can predict the right class for new data based on learned patterns.
@@ -38,9 +38,4 @@ Here are some resources that might be helpful for understanding the Iris Flower 
 
 Feel free to explore and modify the code to experiment with different machine learning algorithms or techniques!
 
-## Acknowledgments
-
-This project is completed as part of the LGMVIP Data Science Internship. Thanks to LetsGrowMore for providing this learning opportunity and guidance throughout the internship.
-
-If you have any questions or suggestions, feel free to reach out. Happy coding!
 
